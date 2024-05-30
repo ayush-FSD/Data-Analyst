@@ -6,5 +6,7 @@ Highly skilled and analytical Data Analyst with more than 2 years of experience 
 #Skills:
 
 Technical Skils: Data Preparation, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning
+
 Soft Skills: Communication, Critical Thinking, Storytelling, Client Management
+
 Programming Skills: Python (NumPy, Pandas, Matplotlib, Seaborn), MySQL, Power BI, Advanced Excel, HTML, CSS
